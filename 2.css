@@ -21,6 +21,7 @@
 body {
 	/* Ảnh nền của trang thứ 2 */
 	background-image: url("./img/tinhyeu.jpg");
+	background-color: pink;
 	background-size: cover;
     background-repeat: none;
 }
