@@ -11,7 +11,7 @@
 .tamthu {
 	font-family: 'Dancing Script', cursive;
 	font-size: 20pt;
-	color: white;
+	color: pink;
 }
 
 .content {
@@ -20,7 +20,7 @@
 
 body {
 	/* Ảnh nền của trang thứ 2 */
-	background-image: url("./img/tinhyeu.jpg");
+	background-image: url("./img/bgtinhyeu.jpg");
 	background-color: pink;
 	background-size: cover;
     background-repeat: none;
