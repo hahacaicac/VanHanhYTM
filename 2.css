@@ -20,7 +20,7 @@
 
 body {
 	/* Ảnh nền của trang thứ 2 */
-	background-image: url("./img/tinhyeu.jpg");
+	background-image: url("./img/bgtinhyeu.jpg");
 	background-size: cover;
     background-repeat: none;
 }
